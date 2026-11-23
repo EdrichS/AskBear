@@ -1,0 +1,36 @@
+# Packaging metadata, so the scraper can be installed into a virtual environment with
+#
+#     pip install -e .            (or: pip install -e ".[dev]" to get pytest too)
+#
+# which also adds an `askbear-scraper` command (the same as `python -m askbear_scraper`).
+# Use the editable install (-e) only: the default data folder is the `data` folder next
+# to the askbear_scraper package (config.PROJECT_ROOT), so a regular install would put the
+# data inside site-packages. Installing is optional: `pip install -r requirements.txt`
+# and running `python -m askbear_scraper` from this folder works just as well.
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "askbear-scraper"
+version = "1.0.0"
+description = "AskBear stage 1: scrape the public NYIT websites into clean datasets for search"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "pymupdf>=1.24",
+    "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+askbear-scraper = "askbear_scraper.cli:main"
+
+[tool.setuptools]
+packages = ["askbear_scraper"]

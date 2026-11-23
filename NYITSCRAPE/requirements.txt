@@ -1,0 +1,15 @@
+# AskBear scraper -- Python 3.9+ (3.11 or newer recommended)
+# Exact versions that built the included dataset: pip install -r requirements.txt -c constraints.txt
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pymupdf>=1.24        # PDF text + bookmarks ("import pymupdf"); needed for the `pdf` and `docs` steps
+tqdm>=4.66           # progress bars
+
+# development / testing
+pytest>=8.0
+urllib3>=1.26        # comes with requests anyway; tests/test_sync.py imports it directly
+
+# Optional, NOT installed by this file (only the README examples use them):
+#   rank_bm25  -- the BM25 demo of README section 9.3   (pip install rank_bm25)
+#   pandas     -- the pandas example of README section 8.3 (pip install pandas)
