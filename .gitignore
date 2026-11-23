@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+build/
+
+# Scraper cache: big and re-creatable with `python -m askbear_scraper crawl` / `pdf` / `docs`
+data/raw/html/
+data/raw/pdf/
+data/raw/docs/
+data/logs/
+*.part
+*.tmp
+data/
+
+# data/processed/ (the finished dataset, 222 MB with 1 MB = 10^6 bytes; the largest file,
+# corpus.jsonl, is 74.7 MB, under GitHub's 100 MiB per-file limit) can be committed and shared
+# with the team.
+
+# Scratch output of the README's instructions: the quick test folder (section 5) and the
+# zip backups / hand-off archives of data/processed (sections 6.4 and 8.4)
+quicktest/
+askbear-processed-*.zip
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
