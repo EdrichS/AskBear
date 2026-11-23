@@ -1,0 +1,182 @@
+{
+  "catalog_school.html": {
+    "url": "https://catalog.nyit.edu/engineering",
+    "final_url": "https://catalog.nyit.edu/engineering",
+    "fetched_at": "2026-11-23T07:07:06+00:00",
+    "cache_file": "catalog.nyit.edu/engineering__7ec28515c3.html",
+    "original_bytes": 83057,
+    "fixture_bytes": 19245,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "catalog_program.html": {
+    "url": "https://catalog.nyit.edu/engineering/computer_science",
+    "final_url": "https://catalog.nyit.edu/engineering/computer_science",
+    "fetched_at": "2026-11-23T07:14:57+00:00",
+    "cache_file": "catalog.nyit.edu/engineering__computer_science__0c112f43a5.html",
+    "original_bytes": 93840,
+    "fixture_bytes": 30016,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "catalog_curriculum.html": {
+    "url": "https://catalog.nyit.edu/engineering/computer_science/curriculum",
+    "final_url": "https://catalog.nyit.edu/engineering/computer_science/curriculum",
+    "fetched_at": "2026-11-23T07:18:17+00:00",
+    "cache_file": "catalog.nyit.edu/engineering__computer_science__curriculum__63ea4861cf.html",
+    "original_bytes": 150576,
+    "fixture_bytes": 84488,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "catalog_semester_map.html": {
+    "url": "https://catalog.nyit.edu/semester-map/computer-science-bs",
+    "final_url": "https://catalog.nyit.edu/semester-map/computer-science-bs",
+    "fetched_at": "2026-11-23T09:15:44+00:00",
+    "cache_file": "catalog.nyit.edu/semester-map__computer-science-bs__91d3d0bb0d.html",
+    "original_bytes": 129500,
+    "fixture_bytes": 63269,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "catalog_course_listing.html": {
+    "url": "https://catalog.nyit.edu/courses?cal=UG&cs=CSCI",
+    "final_url": "https://catalog.nyit.edu/courses?cal=UG&cs=CSCI",
+    "fetched_at": "2026-11-23T07:08:22+00:00",
+    "cache_file": "catalog.nyit.edu/courses__cal-ug_cs-csci__0242845aa9.html",
+    "original_bytes": 218351,
+    "fixture_bytes": 28123,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed; course table cut to CSCI-101, CSCI-125, CSCI-260, CSCI-425, CSCI-426, CSCI-455, CSCI-456; subject dropdown cut to ACCT, ARCH, AAID, CSCI, EENG, MATH",
+    "noindex": false
+  },
+  "www_home.html": {
+    "url": "https://www.nyit.edu/",
+    "final_url": "https://www.nyit.edu/",
+    "fetched_at": "2026-11-23T08:36:34+00:00",
+    "cache_file": "www.nyit.edu/index__b49c77be7f.html",
+    "original_bytes": 168435,
+    "fixture_bytes": 71229,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "www_degree.html": {
+    "url": "https://www.nyit.edu/academics/degrees/technology-entrepreneurship-minor/",
+    "final_url": "https://www.nyit.edu/academics/degrees/technology-entrepreneurship-minor/",
+    "fetched_at": "2026-11-23T09:54:17+00:00",
+    "cache_file": "www.nyit.edu/academics__degrees__technology-entrepreneurship-minor__8440bfc02a.html",
+    "original_bytes": 95255,
+    "fixture_bytes": 39705,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "www_news.html": {
+    "url": "https://www.nyit.edu/news/articles/nyit-ranks-well-among-best-engineering-programs-in-u-s/",
+    "final_url": "https://www.nyit.edu/news/articles/nyit-ranks-well-among-best-engineering-programs-in-u-s/",
+    "fetched_at": "2026-11-23T09:13:59+00:00",
+    "cache_file": "www.nyit.edu/news__articles__nyit-ranks-well-among-best-engineering-programs-in-u-s__165ef4f4d8.html",
+    "original_bytes": 71053,
+    "fixture_bytes": 27075,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "www_bio.html": {
+    "url": "https://www.nyit.edu/bio/amin-milani-fard/",
+    "final_url": "https://www.nyit.edu/bio/amin-milani-fard/",
+    "fetched_at": "2026-11-23T10:10:29+00:00",
+    "cache_file": "www.nyit.edu/bio__amin-milani-fard__b8a2018bfc.html",
+    "original_bytes": 75785,
+    "fixture_bytes": 32749,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "vancouver_page.html": {
+    "url": "https://vancouver.nyit.edu/about/career-services/student-employment/",
+    "final_url": "https://vancouver.nyit.edu/about/career-services/student-employment/",
+    "fetched_at": "2026-11-23T08:29:50+00:00",
+    "cache_file": "vancouver.nyit.edu/about__career-services__student-employment__d1f7468b4b.html",
+    "original_bytes": 101685,
+    "fixture_bytes": 26836,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "apps_policy.html": {
+    "url": "https://apps.nyit.edu/policies/technical_standards_for_students_with_disabilities",
+    "final_url": "https://apps.nyit.edu/policies/technical_standards_for_students_with_disabilities",
+    "fetched_at": "2026-11-23T08:27:10+00:00",
+    "cache_file": "apps.nyit.edu/policies__technical_standards_for_students_with_disabilities__16028a22d0.html",
+    "original_bytes": 64073,
+    "fixture_bytes": 32653,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "libanswers_faq.html": {
+    "url": "https://libanswers.nyit.edu/faq/158255",
+    "final_url": "https://libanswers.nyit.edu/faq/158255",
+    "fetched_at": "2026-11-23T09:25:24+00:00",
+    "cache_file": "libanswers.nyit.edu/faq__158255__87303e0801.html",
+    "original_bytes": 32520,
+    "fixture_bytes": 29805,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "libguides_guide.html": {
+    "url": "https://libguides.nyit.edu/Libraryambassador",
+    "final_url": "https://libguides.nyit.edu/Libraryambassador",
+    "fetched_at": "2026-11-23T09:07:22+00:00",
+    "cache_file": "libguides.nyit.edu/libraryambassador__9112e97a06.html",
+    "original_bytes": 22913,
+    "fixture_bytes": 14206,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "events_event.html": {
+    "url": "https://events.nyit.edu/event/12009-graduate-admissions-info-session-spotlight",
+    "final_url": "https://events.nyit.edu/event/12009-graduate-admissions-info-session-spotlight",
+    "fetched_at": "2026-11-23T08:20:53+00:00",
+    "cache_file": "events.nyit.edu/event__12009-graduate-admissions-info-session-spotlight__57126e8f21.html",
+    "original_bytes": 120536,
+    "fixture_bytes": 42221,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "magazine_article.html": {
+    "url": "https://magazine.nyit.edu/spring2026/alumni-connections",
+    "final_url": "https://magazine.nyit.edu/spring2026/alumni-connections",
+    "fetched_at": "2026-11-23T08:22:23+00:00",
+    "cache_file": "magazine.nyit.edu/spring2026__alumni-connections__5a8636d26d.html",
+    "original_bytes": 67580,
+    "fixture_bytes": 14531,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "blogs_post.html": {
+    "url": "https://blogs.nyit.edu/biological_chemical_sciences/research_activities_chris_douvris_ph.d._associate_professor",
+    "final_url": "https://blogs.nyit.edu/biological_chemical_sciences/research_activities_chris_douvris_ph.d._associate_professor",
+    "fetched_at": "2026-11-23T08:29:38+00:00",
+    "cache_file": "blogs.nyit.edu/biological_chemical_sciences__research_activities_chris_douvris_ph_d__associate_professor__85ab30888e.html",
+    "original_bytes": 56725,
+    "fixture_bytes": 19409,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "online_page.html": {
+    "url": "https://online.nyit.edu/admissions/tuition-financial-aid",
+    "final_url": "https://online.nyit.edu/admissions/tuition-financial-aid",
+    "fetched_at": "2026-11-23T08:21:19+00:00",
+    "cache_file": "online.nyit.edu/admissions__tuition-financial-aid__72880844b3.html",
+    "original_bytes": 209928,
+    "fixture_bytes": 65664,
+    "trimmed": "staff e-mail addresses/phone numbers replaced by placeholders; scripts (except JSON-LD), styles, inline SVGs, noscript and iframes removed",
+    "noindex": false
+  },
+  "catalog_soft404.html": {
+    "url": "https://catalog.nyit.edu/engineering/no_such_program",
+    "final_url": null,
+    "fetched_at": "2026-11-23T01:58:00+00:00",
+    "cache_file": null,
+    "original_bytes": 76901,
+    "fixture_bytes": 13089,
+    "trimmed": "the empty page template catalog.nyit.edu serves (HTTP 200) for a URL that does not exist; scripts, styles and SVGs removed",
+    "noindex": false
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "www_find_an_advisor.html": {
+    "url": "https://www.nyit.edu/academics/academic-success/advising/find-an-advisor/",
+    "final_url": "https://www.nyit.edu/academics/academic-success/advising/find-an-advisor/",
+    "cache_file": "www.nyit.edu/academics__academic-success__advising__find-an-advisor__43dd008c0b.html",
+    "fetched_at": "2026-11-23T09:58:17+00:00",
+    "trimmed": "header/footer, images, styles and other scripts removed; drop-downs cut to 4 + 2 programs (content3, content4, content37, content5 / content52, content53) and their panels, plus the panels content2 and content21, which no option points at (on the live page too)"
+  },
+  "libguides_moreinfo_links.html": {
+    "url": "https://libguides.nyit.edu/c.php?g=61884&p=398576",
+    "final_url": "https://libguides.nyit.edu/c.php?g=61884&p=398576",
+    "cache_file": "libguides.nyit.edu/c_php__g-61884_p-398576__49896503f1.html",
+    "fetched_at": "2026-11-23T09:59:04+00:00",
+    "trimmed": "scripts/styles/images/nav and the boxes without a 'more...' description removed; every list cut to its first 3 items (plus, among its first 12, the items with a 'more...' description)"
+  },
+  "libguides_moreinfo_buttons.html": {
+    "url": "https://libguides.nyit.edu/architecture/AAID101102",
+    "final_url": "https://libguides.nyit.edu/architecture/AAID101102",
+    "cache_file": "libguides.nyit.edu/architecture__aaid101102__80b2767817.html",
+    "fetched_at": "2026-11-23T09:30:46+00:00",
+    "trimmed": "scripts/styles/images/nav and the boxes without a 'more...' description removed; every list cut to its first 4 items (plus, among its first 12, the items with a 'more...' description)"
+  },
+  "www_degree_mba_finance.html": {
+    "url": "https://www.nyit.edu/academics/degrees/management-mba-finance/",
+    "final_url": "https://www.nyit.edu/academics/degrees/management-mba-finance/",
+    "cache_file": "www.nyit.edu/academics__degrees__management-mba-finance__89f205dee9.html",
+    "fetched_at": "2026-11-23T09:52:58+00:00",
+    "trimmed": "header/footer/forms/scripts/styles/images removed; content cut after 3 blocks"
+  },
+  "www_degree_bs_finance.html": {
+    "url": "https://www.nyit.edu/academics/degrees/business-administration-bs-finance/",
+    "final_url": "https://www.nyit.edu/academics/degrees/business-administration-bs-finance/",
+    "cache_file": "www.nyit.edu/academics__degrees__business-administration-bs-finance__879730a9b7.html",
+    "fetched_at": "2026-11-23T09:47:31+00:00",
+    "trimmed": "header/footer/forms/scripts/styles/images removed; content cut after 3 blocks"
+  },
+  "nyitetic_errsela.html": {
+    "url": "https://nyitetic.nyit.edu/errsela",
+    "final_url": "https://nyitetic.nyit.edu/errsela",
+    "cache_file": "nyitetic.nyit.edu/errsela__7d07f43727.html",
+    "fetched_at": "2026-11-23T09:04:16+00:00",
+    "trimmed": "scripts, styles and images removed; the __VIEWSTATE value replaced by a placeholder"
+  },
+  "nyitetic_iis.html": {
+    "url": "https://nyitetic.nyit.edu/",
+    "final_url": "https://nyitetic.nyit.edu/",
+    "cache_file": "nyitetic.nyit.edu/index__12431eafa7.html",
+    "fetched_at": "2026-11-23T09:04:18+00:00",
+    "trimmed": "scripts, styles and images removed"
+  },
+  "eportfolios_invalid_parameter.html": {
+    "url": "https://eportfolios.nyit.edu/artefact/file/download.php",
+    "final_url": "https://eportfolios.nyit.edu/artefact/file/download.php",
+    "cache_file": "eportfolios.nyit.edu/artefact__file__download_php__090a6e3479.html",
+    "fetched_at": "2026-11-23T09:31:54+00:00",
+    "trimmed": "scripts, styles and images removed"
+  },
+  "eportfolios_legal.html": {
+    "url": "https://eportfolios.nyit.edu/legal.php",
+    "final_url": "https://eportfolios.nyit.edu/legal.php",
+    "cache_file": "eportfolios.nyit.edu/legal_php__6f1fb68934.html",
+    "fetched_at": "2026-11-23T09:31:56+00:00",
+    "trimmed": "scripts, styles and images removed"
+  },
+  "libanswers_contacts.html": {
+    "url": "https://libanswers.nyit.edu/faq/5769",
+    "final_url": "https://libanswers.nyit.edu/faq/5769",
+    "cache_file": "libanswers.nyit.edu/faq__5769__9e2b2587cf.html",
+    "fetched_at": "2026-11-23T09:09:57+00:00",
+    "trimmed": "scripts, styles, images, header/footer and the side column removed"
+  }
+}
